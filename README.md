@@ -32,5 +32,5 @@ Lista de links que podem ser uteis no teu estudo sobre essa incrível ferramenta
 # Outros links
 - [Vue News](https://news.vuejs.org/) (Inglês)
 - [Tutorials Point](https://www.tutorialspoint.com/vuejs/) (Inglês)
-- [Vue Mastery] (https://www.vuemastery.com/) (Inglês)
+- [Vue Mastery](https://www.vuemastery.com/) (Inglês)
 - [VueSchool](https://vueschool.io/articles/) (Inglês)
