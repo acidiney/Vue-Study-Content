@@ -20,7 +20,7 @@ Lista de links que podem ser uteis no teu estudo sobre essa incrível ferramenta
 
 - [Vue CLI 3](https://www.youtube.com/watch?v=KeFdy1kVH4A&list=PL4cUxeGkcC9iCKx06qSncuvEPZ7x1UnKD) ( Inglês )
 
--[Vuex](https://www.youtube.com/watch?v=2CSr2vBApSI&list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo) (Inglês)
+- [Vuex](https://www.youtube.com/watch?v=2CSr2vBApSI&list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo) (Inglês)
 
 - [Nuxtjs](https://www.youtube.com/watch?v=Dc_5BpIB4X4&list=PL55RiY5tL51pk1RvaQOxI6sJ-yZzExzJn) ( Inglês )
 
