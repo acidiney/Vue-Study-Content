@@ -29,9 +29,9 @@ Lista de links que podem ser uteis no teu estudo sobre essa incrível ferramenta
 [Nuxtjs](https://www.youtube.com/watch?v=Dc_5BpIB4X4&list=PL55RiY5tL51pk1RvaQOxI6sJ-yZzExzJn) ( Inglês )
 
 # Comunidades
-FB [Vuejs Angola](https://www.facebook.com/groups/1861661303904646/)
-FB [Vuejs Brasil](https://www.facebook.com/groups/vuejsbr/?ref=bookmarks)
-FB [Vue Mastery](https://www.facebook.com/groups/152305585468331/)
+- FB [Vuejs Angola](https://www.facebook.com/groups/1861661303904646/)
+- FB [Vuejs Brasil](https://www.facebook.com/groups/vuejsbr/?ref=bookmarks)
+- FB [Vue Mastery](https://www.facebook.com/groups/152305585468331/)
 
 # Outros links
 [Vue News](https://news.vuejs.org/) (Inglês)
