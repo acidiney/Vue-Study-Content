@@ -22,7 +22,7 @@ Lista de links que podem ser uteis no teu estudo sobre essa incrível ferramenta
 
 - [Vue Fundamentls](https://www.youtube.com/watch?v=vzSjlLzGB1A&list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O) (Inglês)
 
-- [ Vue 2.x corso base](https://www.youtube.com/watch?v=MdvBAgAeIZQ&list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) (Não sei 😂😂😂 provavelmente Francês... Mas gostei por isso tá aqui)
+- [ Vue 2.x corso base](https://www.youtube.com/watch?v=MdvBAgAeIZQ&list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) (Não sei 😂😂😂 provavelmente Italiano... Mas gostei por isso tá aqui)
 
 - [Vue CLI 3](https://www.youtube.com/watch?v=KeFdy1kVH4A&list=PL4cUxeGkcC9iCKx06qSncuvEPZ7x1UnKD) ( Inglês )
 
