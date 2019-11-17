@@ -34,6 +34,7 @@ Lista de links que podem ser uteis no teu estudo sobre essa incrível ferramenta
 
 # Outros locais
 - [Egghead.io](https://egghead.io/courses/develop-basic-web-apps-with-vue-js) (Inglês)
+- [Scotch.io](https://scotch.io/tag/vue) (Inglês) - Vai achar muitos tutorias sobre Vuejs e outros frameworks aqui
 
 # Comunidades
 - FB [Vuejs Angola](https://www.facebook.com/groups/1861661303904646/)
